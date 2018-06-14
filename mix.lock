@@ -1,0 +1,7 @@
+%{
+  "color": {:hex, :erlang_color, "1.0.0", "145fe1d2e65c4516e4f03fefca6c2f47ebad5899d978d70382a5cfe643e4ac9e", [:rebar3], [], "hexpm"},
+  "lfe": {:hex, :lfe, "1.2.0", "257708859c0a6949f174cecee6f08bb5d6f08c0f97ec7b75c07072014723ecbc", [:rebar3], [], "hexpm"},
+  "ltest": {:hex, :ltest, "0.10.0-rc6", "a605158832d4dc2704cbb572423ec13d1a18dd4d48dec7aff7a3011d0261f9db", [:rebar3], [], "hexpm"},
+  "lutil": {:hex, :lutil, "0.10.0-rc6", "c3a560c9ed8cdc34b689591cf60336981ad4ea6ce299624ba87191d3fffb8da2", [:rebar3], [], "hexpm"},
+  "mix_lfe": {:hex, :mix_lfe, "0.2.0-rc2", "a9abc61b2eb39d1108f0394830b967f231b85f5f9957addb6711658663ac8514", [:mix], [{:color, "~> 1.0", [hex: :erlang_color, repo: "hexpm", optional: false]}, {:lfe, "~> 1.2", [hex: :lfe, repo: "hexpm", optional: false]}, {:ltest, "0.10.0-rc6", [hex: :ltest, repo: "hexpm", optional: false]}, {:lutil, "~> 0.10.0-rc6", [hex: :lutil, repo: "hexpm", optional: false]}], "hexpm"},
+}
