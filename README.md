@@ -12,7 +12,7 @@ Has to be set up, using the `mix_lfe` plugin for Mix.
 It can be installed like this:
 
 ```
-mix archive.install https://github.com/meddle0x53/mix_lfe_new/releases/download/v0.1.0/mix_lfe_new-0.2.0.ez
+mix archive.install https://github.com/meddle0x53/mix_lfe_new/releases/download/v0.2.0/mix_lfe_new-0.2.0.ez
 ```
 
 Now the project can be downloaded, set up and compilet like this:
